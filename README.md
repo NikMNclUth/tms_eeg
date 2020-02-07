@@ -1,8 +1,11 @@
 # tms_eeg
 TMS-EEG Cleaning Pipeline
 --- SOME FUNCTIONS ARE ADAPTED FROM THE FOLLOWING:
+
 Wu, Wei, et al. "ARTIST: A fully automated artifact rejection algorithm for single‐pulse TMS‐EEG data." Human brain mapping 39.4 (2018): 1607-1625.
+
 Rogasch, Nigel C., et al. "Analysing concurrent transcranial magnetic stimulation and electroencephalographic data: A review and introduction to the open-source TESA software." Neuroimage 147 (2017): 934-951.
+
 A Delorme & S Makeig. EEGLAB: an open source toolbox for analysis of
 single-trial EEG dynamics, Journal of Neuroscience Methods 134:9-21 (2004)
 
