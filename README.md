@@ -9,7 +9,6 @@ PIECE OF WORK AND IS INTENDED FOR STORAGE AND SHARING OF THE PIPELINE USED BY MY
 
 This code was implemented in the following:
 
-
-Colombo, Michele Angelo, et al. "The spectral exponent of the resting EEG indexes the presence of consciousness during unresponsiveness induced by propofol, xenon, and ketamine." NeuroImage 189 (2019): 631-644.
+Ramakrishnan, Nithya, et al. "Neurophysiological Effect of Ketamine on Prefrontal Cortex in Treatment-Resistant Depression: A Combined Transcranial Magnetic Stimulation–Electroencephalography Study." Chronic Stress 3 (2019): 2470547019861417.
 
 
